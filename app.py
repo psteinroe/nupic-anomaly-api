@@ -18,7 +18,7 @@ def init():
         probationaryPeriod=request.json['probationaryPeriod']
     )
     detector.initialize()
-    return detector.get_model_params()
+    return "OK"
 
 
 @app.route('/api/handleRecord', methods=['POST'])
