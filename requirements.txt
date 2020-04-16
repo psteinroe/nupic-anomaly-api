@@ -14,7 +14,7 @@ nupic==1.0.5
 nupic.bindings==1.0.6
 ordereddict==1.1
 prettytable==0.7.2
-psutil==1.0.1
+psutil==5.6.6
 py==1.8.1
 pycapnp==0.6.3
 PyMySQL==0.6.2
